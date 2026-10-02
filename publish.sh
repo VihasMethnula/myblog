@@ -7,6 +7,7 @@ export VAULT_ATTACH="$HOME/Documents/Ideas/Attachments"
 
 rsync -av --delete "$VAULT_POSTS/" content/posts/
 python3 images.py
+python3 frontmatter.py
 hugo --gc --minify
 
 git add .

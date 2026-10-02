@@ -1,4 +1,21 @@
 baseURL = "/"
-languageCode = "en-us"
 title = "My Blog"
-theme = "PaperMod"
+theme = "terminal"
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "My Blog"
+
+    [languages.en.params]
+      subtitle = "Notes and ideas"
+
+      [languages.en.params.logo]
+        logoText = "My Blog"
+        logoHomeLink = "/"
