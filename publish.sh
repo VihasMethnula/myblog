@@ -13,7 +13,7 @@ hugo --gc --minify
 
 git add .
 if git diff --cached --quiet; then
-  echo "Nothing new to publish."
+  git push; echo "Nothing new to commit. Pushed anything waiting."
 else
   git commit -m "post $(date +'%F %T')"
   git push
