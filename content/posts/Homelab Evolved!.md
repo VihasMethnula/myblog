@@ -1,6 +1,6 @@
 ---
 title: "Homelab Evolved!"
-date: 2026-10-03
+date: 2026-10-03T19:33:59+05:30
 draft: false
 ---
 
