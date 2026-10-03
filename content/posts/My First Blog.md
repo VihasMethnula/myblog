@@ -1,6 +1,6 @@
 ---
 title: "My First Blog"
-date: 2026-10-02
+date: 2026-10-03
 draft: false
 ---
 
