@@ -15,6 +15,7 @@ theme = "terminal"
 
     [languages.en.params]
       subtitle = "Notes and ideas"
+      readMore = "Read more"
 
       [languages.en.params.logo]
         logoText = "Methnula's Blog"
