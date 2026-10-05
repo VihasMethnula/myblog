@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "My Blog"
+title = "Methnula's Blog"
 theme = "terminal"
 
 [params]
@@ -11,11 +11,11 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "My Blog"
+    title = "Methnula's Blog"
 
     [languages.en.params]
       subtitle = "Notes and ideas"
 
       [languages.en.params.logo]
-        logoText = "My Blog"
+        logoText = "Methnula's Blog"
         logoHomeLink = "/"
