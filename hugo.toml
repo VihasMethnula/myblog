@@ -25,3 +25,8 @@ theme = "terminal"
   identifier = "about"
   name = "About"
   url = "/about"
+
+[[languages.en.menu.main]]
+  identifier = "links"
+  name = "Links"
+  url = "/links"
